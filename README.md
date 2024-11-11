@@ -5,12 +5,7 @@
 <p align="center">📩 Como entrar em contato: <strong>luccas.henrique.vr@gmail.com</strong></p>
 
 <a href="https://github.com/Luccas-H">
-<a>
-  <h3>Linguagens Utilizadas:</h3>
-  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccas-H&layout=compact&theme=dracula" alt="Top Langs"/>
-<a/>
-  
-<a>
-  <h3>Estatísticas:</h3>
-  <img align="center"src="https://github-readme-stats.vercel.app/api?username=Luccas-H&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-<a/>
+<h3>Linguagens Utilizadas:</h3>
+<img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccas-H&layout=compact&langs_count=3&theme=dracula" alt="Top Langs"/>
+<h3>Estatísticas:</h3>
+<img align="center"src="https://github-readme-stats.vercel.app/api?username=Luccas-H&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub Stats"/>
