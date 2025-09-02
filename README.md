@@ -4,7 +4,17 @@
 <h3 align="center">💻 Atualmente sou discente do curso de Ciência da Computação pela Universidade Federal de Roraima (UFRR) </h3>
 <p align="center">📩 Como entrar em contato: <strong>luccas.henrique.vr@gmail.com</strong></p>
 
-<h3>Estatisticas:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Luccas-H&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub Stats"/>
-<h3>Linguagens Utilizadas:</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccas-H&layout=compact&langs_count=3&theme=dracula" alt="Top Langs"/>
+<table align="center">
+  <tr>
+    <td align="center"><strong>Estatísticas</strong></td>
+    <td align="center"><strong>Linguagens Utilizadas</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Luccas-H&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccas-H&layout=compact&langs_count=3&theme=dracula" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
