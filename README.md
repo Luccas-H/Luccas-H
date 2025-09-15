@@ -11,7 +11,8 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Luccas-H&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub Stats"/>
+      <!-- &include_all_commits=true -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Luccas-H&show_icons=true&theme=dracula" alt="GitHub Stats"/>
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccas-H&layout=compact&langs_count=3&theme=dracula" alt="Top Langs"/>
