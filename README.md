@@ -1,30 +1,59 @@
+# 👨‍💻 Olá, eu sou Luccas Henrique 
+
+Sou estudante de Ciência da Computação na Universidade Federal de Roraima (UFRR). Minhas áreas de interesse são segurança da informação, redes e sistemas operacionais.
+
+**`[CyberSecurity | Network | OS ]`**
+
+📊 Atualmente explorando: Fuzz Attack, SSH Hardening, Nmap, Linux.
+
+💡 Objetivo: Busco experiência na área para aplicar e aprimorar os fundamentos que possuo, e adquirir mais conhecimento a partir da vivência do dia a dia no mercado.
+
 <p>
-  <h1 align="center">Olá! Meu nome é Luccas Henrique 👋👋</h1>
+   <a href="https://github.com/Luccas-H?tab=followers">
+         <img 
+         alt="followers" 
+         title="Me siga no GitHub" 
+         src="https://custom-icon-badges.demolab.com/github/followers/Luccas-H?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+         </a>
+    <a href="https://github.com/Luccas-H?tab=repositories&sort=stargazers">
+         <img alt="total stars" 
+         title="Total de estrelas" 
+         src="https://custom-icon-badges.demolab.com/github/stars/Luccas-H?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+    <a href="https://www.linkedin.com/in/luccas-h"
+        target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
+         title="Vamos fazer uma conexão!" /></a>
 </p>
 
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luccas-H&repo=Simulador_Jantar_Filosofos&theme=dark" alt="Simulador Jantar Filosofos"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luccas-H&repo=Teste_Driver_LKM_Pendrive_Bootavel&theme=dark" alt="Teste Driver LKM Pendrive Bootavel"/>
+### 🤖 Linguagens e tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" alt="C" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" alt="Linux" align="middle" />
+  &nbsp;&nbsp;
+  
 </p>
 
-<p align="left"> 
-<h4 align="left">Linguagens Utilizadas:</h4>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">     
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-  </a>
+---
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luccas-H&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="420"
+  />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luccas-H&layout=compact&theme=tokyonight&locale=pt-br"
+    width="390"
+  />
 </p>
-<h2></h2>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Luccas-H&show_icons=true&theme=dark" alt="GitHub Stats"/>
-    </td>
-    <td align="center">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccas-H&layout=donut&langs_count=3&theme=dark" alt="Top Langs"/>
     </td>
   </tr>
 </table>
