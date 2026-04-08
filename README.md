@@ -32,7 +32,7 @@ Sou estudante de Ciência da Computação na Universidade Federal de Roraima (UF
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" align="middle" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" alt="C" align="middle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" width="50" alt="C" align="middle" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" alt="Linux" align="middle" />
   &nbsp;&nbsp;
