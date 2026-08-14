@@ -23,21 +23,21 @@ Sou estudante de Ciência da Computação na Universidade Federal de Roraima (UF
         target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
          title="Vamos fazer uma conexão!" /></a>
+   <img src="https://img.shields.io/badge/UFRR-Ciência%20da%20Computação-8b5cf6?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </p>
 
 ---
 
 ### 🤖 Linguagens e tecnologias
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" align="middle" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" width="50" alt="C" align="middle" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" alt="Linux" align="middle" />
-  &nbsp;&nbsp;
+<div align="left">
+   
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
-</p>
+</div>
 
 ---
 
