@@ -45,12 +45,12 @@ Sou estudante de Ciência da Computação na Universidade Federal de Roraima (UF
 
 <p align="left">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luccas-H&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luccas-H&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     width="420"
   />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luccas-H&layout=compact&theme=tokyonight&locale=pt-br"
+    <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luccas-H&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
     width="390"
   />
 </p>
