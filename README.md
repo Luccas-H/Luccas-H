@@ -4,7 +4,7 @@ Sou estudante de Ciência da Computação na Universidade Federal de Roraima (UF
 
 **`[CyberSecurity | Network | OS ]`**
 
-📊 Atualmente explorando: Linux, Modelos de Autenticação e segurança em aplicações web.
+📊 Atualmente explorando: Linux, Modelos de Autenticação e Segurança em Aplicações Web.
 
 💡 Objetivo: Busco experiência na área para aplicar e aprimorar os fundamentos que possuo, e adquirir mais conhecimento a partir da vivência do dia a dia no mercado.
 
